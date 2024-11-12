@@ -1,0 +1,8 @@
+mentor.mentor_home: "/data02/ECE4203/bin"
+mentor.MGLS_LICENSE_FILE: "1717@localhost"
+cadence.cadence_home: "/data02/ECE4203/bin"
+cadence.CDS_LIC_FILE: "5280@localhost"
+synopsys.synopsys_home: "/data02/ECE4203/bin"
+synopsys.SNPSLMD_LICENSE_FILE: "27005@localhost"
+synopsys.MGLS_LICENSE_FILE: "1717@localhost"
+cvc.cvc_home: "/data02/ECE4203"
